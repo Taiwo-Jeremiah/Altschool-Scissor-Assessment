@@ -21,6 +21,8 @@ py -m http.server 8000
 
 Then visit [http://localhost:8000](http://localhost:8000).
 
+Check it out live here (https://taiwo-jeremiah.github.io/Altschool-Scissor-Assessment/)
+
 ## Project files
 
 - `index.html` — page structure and content
